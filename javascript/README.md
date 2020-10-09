@@ -1,4 +1,4 @@
-### javascript-solution
+### School Service
 
 #### Background
 

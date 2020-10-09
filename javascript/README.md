@@ -39,8 +39,8 @@ const data = {
 Node.js 12
 
 #### Commands
-`$ cd <path>/javascript-solution`
-`$ node <path>/javascript-solution/main.js <command>`
+`$ cd <path>/javascript`
+`$ node <path>/javascript/main.js <command>`
 
 | command      | description   |
 |------------- |---------------|

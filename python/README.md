@@ -2,7 +2,7 @@
 
 #### Background
 
-The goal of this project was to create an imperative solution that leveraged semi-pure functions in a pythonic way, while still keeping state at the edge of my application. Functions were written in a generic and uniform way for easy refactoring. Each function takes `args` and `data`, and state (`data`) is being mutated and returned to the console.
+The goal of this project was to create an imperative solution that leveraged semi-pure functions in a pythonic way, while still keeping state at the edge of my application. Functions were written in a generic and uniform way for easy refactoring. Each function takes `args` and `data`, and state (`data`) is mutated and returned to the console.
 
 #### Data Structure
 ```python

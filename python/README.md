@@ -40,7 +40,7 @@ Python 3.latest
 
 #### Commands
 
-`$ python3 <path>/python-solution/main.py <command>`
+`$ python3 <path>/python/main.py <command>`
 
 | command      | description   |
 |------------- |---------------|

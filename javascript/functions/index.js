@@ -182,7 +182,7 @@ const createClassroom = (functions) => (args) => (data) => {
  * @param {Function} functions.withSetState - Set the state of the application
  * @param {Function} functions.withCheckArguments - Argument error checking
  * @param {String} args.classroomName - Name of classroom to be created
- * @param {String} args.student - Name of student applied to classroom
+ * @param {String} args.studentName - Name of student applied to classroom
  * @param {Object} data - Current state of the application
  * @returns {Object} New data object with student added to classrooms object
  */
